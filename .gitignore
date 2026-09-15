@@ -36,4 +36,4 @@ _*.txt
 
 # Internal specs — keep local, do not publish
 ТЗ*.md
-
+.Что ТРЕБУЕТСЯ.md
