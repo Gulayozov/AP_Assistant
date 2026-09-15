@@ -1,0 +1,106 @@
+{
+  "programs": [
+    {
+      "id": "starline",
+      "name": {
+        "ru": "Starline Accelerator",
+        "en": "Starline Accelerator"
+      },
+      "cohort": {
+        "ru": "текущий набор",
+        "en": "current intake"
+      },
+      "current_stage": {
+        "ru": "Подача заявок и участие. Перед заявкой нужно прочитать гид участника до конца.",
+        "en": "Applications and participation. Read the participant guide in full before applying."
+      },
+      "description": {
+        "ru": "Интенсивная программа Accelerate Prosperity для IT-команд, которые хотят довести продукт до traction и подготовиться к привлечению инвестиций. Главная цель: подготовить IT-стартапы с потенциалом масштабирования к привлечению инвестиций. Обучение построено вокруг реального продукта: каждую неделю работа над ним, обратная связь и питчинг результатов.",
+        "en": "An intensive Accelerate Prosperity program for IT teams that want to take their product to traction and prepare to raise investment. Main goal: prepare scalable IT startups to attract investment. Learning is built around the real product: weekly work, feedback, and pitching results."
+      },
+      "structure": {
+        "ru": "12 недель. Формат: онлайн / офлайн, регулярные сессии. Нагрузка интенсивная — нужна готовность работать над продуктом каждую неделю. Участие бесплатное. 15 мест. Три батча: 1) зрелые проекты (готовый IT-продукт, MVP и минимальный traction); 2) ранняя стадия (опыт в IT, идея и первые попытки, пока без MVP); 3) корпоративные проекты (внутренний проект компании с командой, ресурсами и MVP). Между батчами есть общие сессии и нетворкинг.",
+        "en": "12 weeks. Format: online / offline, regular sessions. Intensive workload — participants must work on the product every week. Participation is free. 15 spots. Three batches: 1) mature projects (ready IT product, MVP, and at least minimal traction); 2) early stage (IT experience, an idea and first attempts, no MVP yet); 3) corporate projects (an internal company project with a team, resources, and MVP). Batches share sessions and networking."
+      },
+      "coordinator": {
+        "telegram": "fara_imatshoevna",
+        "whatsapp": "+992 11 344 0417"
+      },
+      "guide_url": "https://app.notion.com/p/Starline-Accelerator-3873a0c5168e80de8810e8c3c5f5fbf4",
+      "application_url": "https://docs.google.com/forms/d/e/1FAIpQLScyIYqQ1V2YuOFWyFA8G5vpdM5LA3R3j2pasdN206IU4d8vrg/viewform",
+      "speakers_note": {
+        "ru": "Менторы и консультации — эксперты стартап-экосистемы Центральной Азии. Имена спикеров отдельных сессий в опубликованном гиде не указаны.",
+        "en": "Mentors and consultations are experts from the Central Asian startup ecosystem. Individual session speaker names are not listed in the published guide."
+      },
+      "consultation_note": {
+        "ru": "Менторство и консультации экспертов экосистемы ЦА идут на протяжении всей программы. Расписания слотов в опубликованном гиде нет.",
+        "en": "Mentorship and expert consultations run throughout the program. Slot times are not published in the guide."
+      },
+      "calendar": [],
+      "deadlines": [],
+      "speakers": [],
+      "consultations": [],
+      "materials": [
+        {
+          "category": {"ru": "Гид и заявка", "en": "Guide and application"},
+          "items": [
+            {
+              "title": {"ru": "Гид участника Starline Accelerator (Notion)", "en": "Starline Accelerator participant guide (Notion)"},
+              "url": "https://app.notion.com/p/Starline-Accelerator-3873a0c5168e80de8810e8c3c5f5fbf4"
+            },
+            {
+              "title": {"ru": "Форма заявки", "en": "Application form"},
+              "url": "https://docs.google.com/forms/d/e/1FAIpQLScyIYqQ1V2YuOFWyFA8G5vpdM5LA3R3j2pasdN206IU4d8vrg/viewform"
+            }
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "q": {"ru": "Участие правда бесплатное?", "en": "Is participation really free?"},
+          "a": {"ru": "Да. С участников оплату не берут. Количество мест ограничено: 15 проектов.", "en": "Yes. Participants are not charged. Spots are limited: 15 projects."}
+        },
+        {
+          "q": {"ru": "У меня нет MVP — мне можно?", "en": "I do not have an MVP — can I apply?"},
+          "a": {"ru": "Да, для этого есть Батч 2. Главное — опыт в IT и в предпринимательстве.", "en": "Yes. That is Batch 2. What matters is IT and entrepreneurship experience."}
+        },
+        {
+          "q": {"ru": "Сколько длится программа?", "en": "How long does the program last?"},
+          "a": {"ru": "12 недель с регулярными сессиями и еженедельной работой над traction. Нагрузка интенсивная.", "en": "12 weeks with regular sessions and weekly work on traction. The workload is intensive."}
+        },
+        {
+          "q": {"ru": "Программа даёт деньги автоматически?", "en": "Does the program automatically provide funding?"},
+          "a": {"ru": "Нет. Программа открывает доступ к финансированию, но формат зависит от результата: прямые инвестиции или кредитование. Не все команды получают деньги. Финансирование привязано к подтверждённому traction.", "en": "No. The program opens access to funding, but the format depends on results: direct investment or lending. Not every team receives money. Funding is tied to confirmed traction."}
+        },
+        {
+          "q": {"ru": "Как подать заявку?", "en": "How do I apply?"},
+          "a": {"ru": "Прочитайте гид участника до конца, определите свой батч, подготовьте короткое описание проекта и команды, заполните форму заявки и дождитесь связи от координатора.", "en": "Read the participant guide in full, identify your batch, prepare a short project and team description, submit the application form, and wait for the coordinator."}
+        },
+        {
+          "q": {"ru": "С кем связаться?", "en": "Who should I contact?"},
+          "a": {"ru": "Координатор программы в Telegram: @fara_imatshoevna. WhatsApp: +992 11 344 0417.", "en": "Program coordinator on Telegram: @fara_imatshoevna. WhatsApp: +992 11 344 0417."}
+        },
+        {
+          "q": {"ru": "Что участники получают?", "en": "What do participants get?"},
+          "a": {"ru": "Менторство и консультации экспертов экосистемы ЦА на протяжении программы; упакованный продукт, питч-дек и финансовая модель; нетворкинг и выход на инвесторов; сообщество, амбассадоры и внепрограммные мероприятия (Аллея стартапов, игра-чемпионат, совместные вылазки).", "en": "Mentorship and consultations with Central Asian ecosystem experts throughout the program; a packaged product, pitch deck, and financial model; networking and access to investors; a community, ambassadors, and extra events (Startup Alley, a championship game, joint outings)."}
+        },
+        {
+          "q": {"ru": "По каким критериям отбирают?", "en": "What are the selection criteria?"},
+          "a": {"ru": "Мотивация; широта мышления; релевантный опыт; готовность уделять программе время; чёткие ожидания; русский и английский для работы с менторами и материалами.", "en": "Motivation; breadth of thinking; relevant experience; capacity to spend time on the program; clear expectations; Russian and English to work with mentors and materials."}
+        },
+        {
+          "q": {"ru": "На каких языках работают с менторами?", "en": "Which languages are used with mentors?"},
+          "a": {"ru": "Русский и английский — для работы с менторами и материалами.", "en": "Russian and English — for work with mentors and materials."}
+        },
+        {
+          "q": {"ru": "Если сейчас нет ресурса полноценно включиться?", "en": "What if I cannot commit fully right now?"},
+          "a": {"ru": "Это не пассивный курс: каждую неделю работа над traction и питчинг-сессии. Если сейчас нет ресурса полноценно включиться, лучше подать заявку в следующий поток.", "en": "This is not a passive course: every week includes traction work and pitching sessions. If there is no capacity to engage fully now, apply to the next cohort."}
+        },
+        {
+          "q": {"ru": "Подойдёт ли корпоративный внутренний проект?", "en": "Can an internal corporate project apply?"},
+          "a": {"ru": "Да, это Батч 3: внутренний проект традиционной компании с командой, ресурсами и MVP, готовый выйти за пределы материнской организации.", "en": "Yes. That is Batch 3: an internal project of a traditional company, with a team, resources, and MVP, ready to go beyond the parent organization."}
+        }
+      ]
+    }
+  ]
+}

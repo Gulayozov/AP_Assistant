@@ -1,0 +1,39 @@
+# Secrets and local env (never commit)
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Runtime data: Telegram user IDs, questions, tickets
+data/runtime/*
+!data/runtime/.gitkeep
+
+# OS / IDE
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+# Local scratch from extraction / smoke tests
+_*.py
+_*.txt
+*.docx
+*.html
+
+# Internal specs — keep local, do not publish
+ТЗ*.md
+
