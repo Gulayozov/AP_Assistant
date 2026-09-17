@@ -30,6 +30,8 @@ Thumbs.db
 
 # Local scratch from extraction / smoke tests
 _*.py
+!__init__.py
+!**/__init__.py
 _*.txt
 *.docx
 *.html
