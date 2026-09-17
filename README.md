@@ -1,6 +1,6 @@
 # Telegram AI Assistant for Accelerate Prosperity
 
-Telegram bot for [@accelerateprosperitybot](https://t.me/accelerateprosperitybot). Website chat is out of scope.
+Telegram bot for [@accelerateprosperitybot](https://t.me/accelerateprosperitybot).
 
 Current program: [Starline Accelerator](https://app.notion.com/p/Starline-Accelerator-3873a0c5168e80de8810e8c3c5f5fbf4).
 
